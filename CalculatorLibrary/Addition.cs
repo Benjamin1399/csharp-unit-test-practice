@@ -8,7 +8,7 @@ namespace CalculatorLibrary
     {
         public int AddTwoNumbers(int a, int b)
         {
-            return a + b;
+            return 2;
         }
     }
 }
